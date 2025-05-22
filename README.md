@@ -39,5 +39,6 @@ The website is deployed on Netlify:
 
 ## How to Run Locally
 1. Clone the repository:
-   ```bash git clone https://github.com/Techgenius001/TechBlog_Hub_Website.git
+   ```bash
+   git clone https://github.com/Techgenius001/TechBlog_Hub_Website.git
 
