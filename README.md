@@ -40,5 +40,4 @@ The website is deployed on Netlify:
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-[[   git clone https://github.com/yourusername/techblog-hub.git
-](https://github.com/Techgenius001/TechBlog_Hub_website.git)](https://github.com/Techgenius001/TechBlog_Hub_website.git)
+
